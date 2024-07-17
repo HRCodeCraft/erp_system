@@ -1,0 +1,6 @@
+# lib64
+__pycache__
+
+# venv
+__pycache__/config.cpython-36.pyc
+myprojectenv/
